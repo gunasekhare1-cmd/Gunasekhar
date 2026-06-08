@@ -1,0 +1,16 @@
+{
+  "name": "GSR Commerce",
+  "short_name": "GSR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6faff",
+  "theme_color": "#f6faff",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
