@@ -1,0 +1,6 @@
+{
+  "name": "GSR Commerce",
+  "description": "A premium, minimalist e-commerce template featuring modern typography, airy layouts, and high-contrast styling across product listings, details, and checkout flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
